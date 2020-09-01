@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-data-structures",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures practice in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xistz/algorithms-data-structures-typescript.git"
+  },
+  "author": "Chan Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xistz/algorithms-data-structures-typescript/issues"
+  },
+  "homepage": "https://github.com/xistz/algorithms-data-structures-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^14.6.2",
+    "typescript": "^4.0.2"
+  }
+}
